@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Simple app for fetching github repos and adding them to favourites. App uses React, Typescript, Redux Toolkit, RTKQuery and Tailwind for styling
+The goal was to explore Redux Toolkit, RTKQuery and Tailwind.
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
